@@ -12,5 +12,5 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://gaushik.netlify.app/" alt="stacks"/>
+
 </h3>
