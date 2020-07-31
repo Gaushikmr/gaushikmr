@@ -7,10 +7,4 @@ I'm Gaushik, an Undergraduate and self-motivated tech enthusiast.
 
 
 <br/>
-<h3 align="center">
-My Tech Stacks
-</h3>
 
-<h3 align="center">
-
-</h3>
