@@ -1,14 +1,14 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Gaushik, an Undergraduate and self-motivated tech enthusiast.
+I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.
 </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/source.gif" />
 
 
 🌱 I’m currently learning Machine learning in Python.
 
-💼 I’m pursuing a B.E. degree in Computer Science Engineering.
+💼 I’m pursuing a B.E in Computer Science Engineering.
 
 💬 Ask me about anything, I would like to answer.
 
