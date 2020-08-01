@@ -14,6 +14,8 @@ I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.
 
 📫 Please email via gaushik16@gmail.com to reach me.
 
+✨[You can connect me through] (<https://www.linkedin.com/in/gaushik-m-r-08a58a135/>)
+
 👀 check out my community to get more info.
 
  
