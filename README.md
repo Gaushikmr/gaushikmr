@@ -21,6 +21,8 @@
 
 📫 Please email via gaushik16@gmail.com to reach me.
 
+📌 Quote:“Experience is the name everyone gives to their mistakes.” 
+
 👀 Check out my community to get more info.
 
  
