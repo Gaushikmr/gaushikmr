@@ -10,6 +10,7 @@
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/source.gif" />
+
  **I'm Gaushik, an Undergraduate and Self-motivated tech enthusias.**
 
 🌱 I’m currently learning Machine learning in Python.
