@@ -20,12 +20,10 @@ I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.
 
 📫 Please email via gaushik16@gmail.com to reach me.
 
-✨ You can connect me through <https://www.linkedin.com/in/gaushik-m-r-08a58a135/>
-
 👀 Check out my community to get more info.
 
  
-----
+
 ### Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
