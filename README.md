@@ -6,11 +6,11 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gaushik16@outlook.com)
 
 
-<p align="center">
-**I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
-</p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/source.gif" />
 
+ I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/source.gif" />
+ **I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
 
 🌱 I’m currently learning Machine learning in Python.
 
