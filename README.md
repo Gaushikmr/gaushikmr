@@ -7,7 +7,7 @@
 
 
 <p align="center">
-I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.
+**I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
 </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/source.gif" />
 
