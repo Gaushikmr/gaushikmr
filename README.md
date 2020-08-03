@@ -1,8 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-
-<iframe src="https://giphy.com/embed/26u4nJPf0JtQPdStq" width="480" height="184" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq">via GIPHY</a></p>
-
+ <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/source.mp4">
  **I'm Gaushik, an Undergraduate and Self-motivated tech enthusias.**
 
 🌱 I’m currently learning Machine learning in Python.
