@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif">
    
- **I'm Gaushik, an Undergraduate and Self-motivated tech enthusias.**https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif
+ **I'm Gaushik, an Undergraduate and Self-motivated tech enthusias.**
 
 🌱 I’m currently learning Machine learning in Python.
 
