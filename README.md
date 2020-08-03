@@ -4,7 +4,7 @@
   <img width="460" height="300" src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif">
 </p>
    
- **I'm Gaushik, an Undergraduate and Self-motivated tech enthusias.**
+ **I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
 
 🌱 I’m currently learning Machine learning in Python.
 
