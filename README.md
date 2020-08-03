@@ -18,6 +18,7 @@
 
 👀 Check out my community to get more info.
 
+<img align="right" width="100" height="100" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
  
 
 ### Languages and Tools
