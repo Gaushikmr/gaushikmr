@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img src="https://images.app.goo.gl/ena9LzaFQZ1iaZdZ9">
+  <imgsrc="https://images.app.goo.gl/ena9LzaFQZ1iaZdZ9">
 </p>
    
  **I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
