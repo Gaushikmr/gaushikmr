@@ -1,6 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img src="https://images.app.goo.gl/Khk9nKtZdMJTeDvf9" >
+
+<img align="center" width="100" height="100" src="https://images.app.goo.gl/jczPgcouP3xRTnia9">
    
  **I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
 
