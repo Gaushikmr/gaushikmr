@@ -1,4 +1,4 @@
-<p align="center">  <img src="5.gif" width="160px"></p>
+<p align="center">  <img src="5.gif" ></p>
 
 
 
