@@ -1,6 +1,9 @@
+<p>
 
+<img src="3.gif" alt="Paris" class="center">
 
-<img src="me.gif" alt="Paris" class="center">
+</p>
+
  **I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
 
 🌱 I’m currently learning Machine learning in Python.
