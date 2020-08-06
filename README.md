@@ -1,8 +1,7 @@
-<p>
 
-<img src="3.gif" alt="Paris" class="center">
+<img src="5.gif" class="center">
 
-</p>
+
 
  **I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
 
