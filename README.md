@@ -1,7 +1,3 @@
-<p align="center">  <img src="5.gif" >
-</p>
-
-
 
 
  **I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
