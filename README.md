@@ -1,7 +1,7 @@
 <p align="center">  <img src="https://github.com/gaushikmr/gaushikmr/blob/master/images/9.png"></p>
 
 
- **I am Gaushik, an exuberant tech enthusiast, programmer who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's.** 
+          **I am Gaushik, an exuberant tech enthusiast, programmer who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's.** 
 
 
 🌱 I’m currently learning Machine learning in Python.
