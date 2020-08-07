@@ -1,4 +1,4 @@
-<p align="center">  <img src="C:\Users\Gaushik\Documents\gaushikmr\images" height="160px" width="160px"></p>
+<p align="center">  <img src="7.gif" height="160px" width="160px"></p>
 
 
  **I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
