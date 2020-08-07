@@ -1,4 +1,4 @@
-<p align="center">  <img src="8.gif" ></p>
+<p align="center">  <img src="https://github.com/gaushikmr/gaushikmr/blob/master/images/8.png"></p>
 
 
  **I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
