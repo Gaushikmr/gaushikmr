@@ -1,4 +1,4 @@
-<p align="center">  <img src="8.png" ></p>
+<p align="center">  <img src="me.gif"></p>
 
 
  **I'm Gaushik, an Undergraduate and Self-motivated tech enthusiast.**
