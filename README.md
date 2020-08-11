@@ -44,5 +44,5 @@
 
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
 
-<img src="https://github.com/gaushikmr/?username=gaushikmr" alt="gaushikmr" 
+<img src="https://github.com/gaushikmr?username=gaushikmr" alt="gaushikmr"/> 
 
