@@ -4,17 +4,17 @@
 
 
 
-🌱 I’m currently learning Machine learning in Python.
+- 🌱 I’m currently learning Machine learning in Python.
 
-💼 I’m pursuing a B.E in Computer Science Engineering.
+- 💼 I’m pursuing a B.E in Computer Science Engineering.
 
-💬 Ask me about anything, I would like to answer.
+- 💬 Ask me about anything, I would like to answer.
 
-📫 Please email via gaushik16@gmail.com to reach me.
+- 📫 Please email via gaushik16@gmail.com to reach me.
 
-📌 Quote:“Experience is the name everyone gives to their mistakes.” 
+- 📌 Quote:“Experience is the name everyone gives to their mistakes.” 
 
-👀 Check out my community to get more info.
+- 👀 Check out my community to get more info.
 
 <img align="right" width="100" height="100" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
  
