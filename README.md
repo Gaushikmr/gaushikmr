@@ -56,7 +56,7 @@
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
 
 
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=gaushikmr alt=akanksha-raghav/></p>
 
 
  
