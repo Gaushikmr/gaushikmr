@@ -6,7 +6,6 @@
 
 
 
-
  ### Hola, I'm [Gaushik M.R](https://github.com/gaushikmr)! 👋 
 
 
