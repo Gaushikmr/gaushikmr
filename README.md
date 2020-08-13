@@ -43,7 +43,7 @@
 <a href="https://www.linkedin.com/in/gaushik-m-r-08a58a135/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
+Do ⭐ my repository if you find my Readme interesting, at least your star could make someone's day.  
 
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=gaushikmr alt=akanksha-raghav/></p>
