@@ -36,7 +36,7 @@
 
 **Will be happy to Connect Here:**
 
-<p align="center">
+
  
 <a href="https://www.linkedin.com/in/gaushik-m-r-08a58a135/">
   <img align="center" alt="Aastha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -48,10 +48,10 @@
 <img align="center" alt="Aastha's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="">
-  <img align="left" alt="Aastha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="center" alt="Aastha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-</p>
+
 
 Do ⭐ my repository if you find my Readme interesting, at least your star could make someone's day.  
 
