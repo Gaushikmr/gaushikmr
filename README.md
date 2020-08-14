@@ -6,7 +6,7 @@
 
 
 
-  ## Hola, I'm [Gaushik M.R](https://github.com/gaushikmr)! 👋✨
+  <h1 align="center"> Hola, I'm [Gaushik M.R](https://github.com/gaushikmr)! 👋✨</h1>
 
 
 
