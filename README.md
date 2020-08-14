@@ -36,7 +36,7 @@
 
 
 
-<p align='center'>
+
 
 **Will be happy to Connect Here:**
 
