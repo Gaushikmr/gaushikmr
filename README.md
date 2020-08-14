@@ -34,13 +34,26 @@
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
  
 
-**Connect with me**
+
 
 <p align='center'>
-<a href="https://github.com/gaushikmr"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href=""><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href=""><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gaushik-m-r-08a58a135/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+
+**Will be happy to Connect Here:**
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/aastha-mehta-176030179/">
+  <img align="left" alt="Aastha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AasthaGithub">
+  <img align="left" alt="Aastha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://medium.com/@aasthamehta2704/">
+<img align="left" alt="Aastha's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://t.me/AasthaMe">
+  <img align="left" alt="Aastha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
 </p>
 
 Do ⭐ my repository if you find my Readme interesting, at least your star could make someone's day.  
