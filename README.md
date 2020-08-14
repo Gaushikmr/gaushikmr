@@ -6,9 +6,8 @@
 
 
 
-<h1 align="center">
-  Hola, I'm [Gaushik M.R](https://github.com/gaushikmr)! 👋✨
-</h1>
+  ## Hola, I'm [Gaushik M.R](https://github.com/gaushikmr)! 👋✨
+
 
 
 - 🌱 I’m currently learning Machine learning in Python.
