@@ -41,16 +41,16 @@
 **Will be happy to Connect Here:**
 
 <p align='center'
-<a href="https://www.linkedin.com/in/aastha-mehta-176030179/">
+<a href="https://www.linkedin.com/in/gaushik-m-r-08a58a135/">
   <img align="left" alt="Aastha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AasthaGithub">
+<a href="https://github.com/gaushikmr">
   <img align="left" alt="Aastha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://medium.com/@aasthamehta2704/">
+<a href="/">
 <img align="left" alt="Aastha's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://t.me/AasthaMe">
+<a href="">
   <img align="left" alt="Aastha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
