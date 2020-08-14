@@ -34,13 +34,10 @@
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
  
 
-
-
-
-
 **Will be happy to Connect Here:**
 
-<p align='center'
+<p align="center">
+ 
 <a href="https://www.linkedin.com/in/gaushik-m-r-08a58a135/">
   <img align="left" alt="Aastha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
