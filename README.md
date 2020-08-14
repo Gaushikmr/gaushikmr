@@ -6,9 +6,9 @@
 
 
 
-
+<p align="center">
  ## Hola, I'm [Gaushik M.R](https://github.com/gaushikmr)! 👋✨
-
+</p>
 
 
 - 🌱 I’m currently learning Machine learning in Python.
