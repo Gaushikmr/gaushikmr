@@ -8,6 +8,7 @@
 
   <h1 align="center"> Hola, I'm Gaushik M.R 👋✨</h1>
 
+ <h3 align="center">Full Stack Developer 👨‍💻 ||​💻​Programmer||Java || C || SQL || Pythoneer 🐍|| Machine Learning</h3>
 
 
 - 🌱 I’m currently learning Machine learning in Python.
