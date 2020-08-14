@@ -40,7 +40,7 @@
 
 **Will be happy to Connect Here:**
 
-<p align='center'>
+<p align='center'
 <a href="https://www.linkedin.com/in/aastha-mehta-176030179/">
   <img align="left" alt="Aastha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
