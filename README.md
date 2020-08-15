@@ -10,7 +10,7 @@
 
  <h3 align="center">Full Stack Developer 👨‍💻 |​💻​Programmer|Java | C | SQL | Python | Machine Learning</h3>
 
-<img align="center"[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/gaushikmr)>
+<img align="center">[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/gaushikmr)
 
 - 🌱 I’m currently learning Machine learning in Python.
 
