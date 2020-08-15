@@ -59,5 +59,5 @@ Do ⭐ my repository if you find my Readme interesting, at least your star could
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=gaushikmr alt=akanksha-raghav/></p>
 
-![Image of me](https://github.com/gaushikmr/gaushikmr/blob/master/me.gif?raw=true)
+![Image of me](https://github.com/gaushikmr/Gaushik MR/blob/master/me.gif?raw=true)
  
