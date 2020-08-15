@@ -6,7 +6,7 @@
 
 
 
-  <h1 align="center"> Hola, I'm Gaushik M.R 👋✨</h1>
+  <h1 align="center"> Hola, I'm Gaushik M.R 👋</h1>
 
  <h3 align="center">Full Stack Developer 👨‍💻 |​💻​Programmer|Java | C | SQL | Python | Machine Learning</h3>
 
