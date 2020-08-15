@@ -8,7 +8,7 @@
 
   <h1 align="center"> Hola, I'm Gaushik M.R 👋✨</h1>
 
- <h3 align="center">Full Stack Developer 👨‍💻 ||​💻​Programmer||Java || C || SQL || Pythoneer 🐍|| Machine Learning</h3>
+ <h3 align="center">Full Stack Developer 👨‍💻 |​💻​Programmer|Java | C | SQL | Python | Machine Learning</h3>
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/gaushikmr)
 
