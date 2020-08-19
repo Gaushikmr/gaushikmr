@@ -19,7 +19,7 @@ I'm currently training myself to become industry ready and finally accomplish th
 
 - Focussing on improving my skills to land a role where I can make mistakes,learn,grow and take responsibilities. 
 - Trying to contribute more to OpenSource 
-- working on my personal portfolio and projects surrounding it.
+- Working on my personal portfolio and projects surrounding it.
 
 
 
