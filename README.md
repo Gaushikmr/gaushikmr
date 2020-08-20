@@ -27,5 +27,5 @@ I'm currently training myself to become industry ready and finally accomplish th
 
 ## Reach out to me 
 
-<a href="linkedin.com/in/gaushik-m-r-08a58a135/" target="_blank"><img src="https://user-images.githubusercontent.com/49617450/87217717-066d5680-c36a-11ea-8baa-79bc75c477a9.png" alt="LinkedIn Profile Link"/></a>
+<a href="https://www.linkedin.com/in/gaushik-m-r-08a58a135/" target="_blank"><img src="https://user-images.githubusercontent.com/49617450/87217717-066d5680-c36a-11ea-8baa-79bc75c477a9.png" alt="LinkedIn Profile Link"/></a>
 <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/49617450/87217720-0a997400-c36a-11ea-9dac-630fb39abf8e.png" alt="Twitter Profile Link"/></a>
