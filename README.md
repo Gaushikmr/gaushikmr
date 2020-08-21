@@ -6,6 +6,7 @@
 # Hi there 👋
 
 I'm Gaushik. I'm a ComputerScience Undergrad who went rogue to accomplish his long awaited passion of becoming a Software Engineer.  I love to build fast, robust and optimized   Frontend Interfaces.
+ [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/gaushikmr)
  
 I'm currently training myself to become industry ready and finally accomplish that perfect dream.
 
