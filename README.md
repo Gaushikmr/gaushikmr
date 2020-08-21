@@ -4,6 +4,8 @@
 
 
 # Hi there 👋
+<p align="center"><a href="https://github.com/yashk2000"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
+
 
  [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/gaushikmr)
 
