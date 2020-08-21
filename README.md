@@ -34,3 +34,9 @@
 
 <p align="center"><a href="https://github.com/gaushikmr"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
 
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+
+ 
+
+⭐️ From [Gaushik](https://github.com/gaushikmr)
+
