@@ -40,5 +40,5 @@
 
  
 
-⭐️ From [Gaushik](https://github.com/gaushikmr)
+Leave a ⭐️ if you like this template and want to modify it for yourself!
 
