@@ -2,7 +2,7 @@
 # Hi there 👋
 
  [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/gaushikmr)
-
+<p align="center"><a href="https://github.com/yashk2000"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
  I'm Gaushik. I'm a ComputerScience Undergrad who went rogue to accomplish his long awaited passion of becoming a Software Engineer.  I love to build fast, robust and optimized   Frontend Interfaces.
  I'm currently training myself to become industry ready and finally accomplish that perfect dream.
 
