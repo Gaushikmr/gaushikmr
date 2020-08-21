@@ -23,7 +23,11 @@ I'm currently training myself to become industry ready and finally accomplish th
 - Trying to contribute more to OpenSource.
 - Working on my personal portfolio and projects surrounding it.
 
+## My skills
 
+<p align="center">
+  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+</p>
 
 
 ## Reach out to me 
