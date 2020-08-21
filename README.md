@@ -20,19 +20,22 @@
 - Trying to contribute more to OpenSource.
 - Working on my personal portfolio and projects surrounding it.
 
-## My skills
+## TECH STACK
 
-<p align="center">
-  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
-</p>
+PHP / MYSQL / FLUTTER /  JS / NODE JS / JQUERY / HTML / CSS  / BOOSTRAP / UNIX / GITHUB 
 
 ## Github Badges :
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  
 
 ## Reach out to me 
 
-<a href="https://www.linkedin.com/in/gaushik-m-r-08a58a135/" target="_blank"><img src="https://user-images.githubusercontent.com/49617450/87217717-066d5680-c36a-11ea-8baa-79bc75c477a9.png" alt="LinkedIn Profile Link"/></a>
-<a href="" target="_blank"><img src="https://user-images.githubusercontent.com/49617450/87217720-0a997400-c36a-11ea-9dac-630fb39abf8e.png" alt="Twitter Profile Link"/></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/gaushik-m-r-08a58a135/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/gaushikmr" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+<a href="http://gaushik.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+>
 
 
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
