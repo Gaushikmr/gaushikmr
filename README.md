@@ -20,11 +20,10 @@
 - Trying to contribute more to OpenSource.
 - Working on my personal portfolio and projects surrounding it.
 
-## TECH STACK
+## Tech Stack
+- PHP / MYSQL / FLUTTER /  JS / NODE JS / JQUERY / HTML / CSS  / BOOSTRAP / UNIX / GITHUB 
 
-PHP / MYSQL / FLUTTER /  JS / NODE JS / JQUERY / HTML / CSS  / BOOSTRAP / UNIX / GITHUB 
-
-## Github Badges :
+## Github Badges 
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  
 
 ## Reach out to me 
