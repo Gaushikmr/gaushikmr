@@ -21,7 +21,19 @@
 - Working on my personal portfolio and projects surrounding it.
 
 ## Tech Stack
-<p align="center"> <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="40" height="40"/><img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="40" height="40"/></p>
+<img align="center" alt="C" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
+<img align="center" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />
+<img align="center" alt="Csharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/csharp.svg" />
+<img align="center" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
+<img align="center" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" />
+<img align="center" alt="Jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jupyter.svg" />
+<img align="center" alt="Pandas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/pandas.svg" />
+<img align="center" alt="Tensorflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/tensorflow.svg" />
+<img align="center" alt="MySQL" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
+<img align="center" alt="Microsoft Office" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/microsoftoffice.svg" />
+<img align="center" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/linux.svg" />
+<img align="center" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/git.svg" />
+
 
 
 ## Github Badges 
@@ -42,5 +54,5 @@
 
  <p align="center"><a href="https://github.com/gaushikmr"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-Leave a ⭐️ if you like this template and want to modify it for yourself!
+:pushpin: Liked my introduction, You can also make a similar ones for yourself. Just Star and Fork this [README](https://github.com/Ankit512/Ankit512) :pencil:
 
