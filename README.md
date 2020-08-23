@@ -6,7 +6,11 @@
  I'm Gaushik. I'm a ComputerScience Undergraduate who went rogue to accomplish his long awaited passion of becoming a Software Engineer.
  I'm currently training myself to become industry ready and finally accomplish that perfect dream.
 
+## Things I enjoy doing 👩‍💻
 
+- Developing Experiences which bring a smile.
+- Working on technologies that help me put together some beautiful.
+- Learning and Working with JavaScript and all things Web.
 
 
 
