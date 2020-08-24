@@ -47,5 +47,4 @@
 
  <p align="center"><a href="https://github.com/gaushikmr"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-:pushpin: Liked my introduction, You can also make a similar ones for yourself. Just Star and Fork this [README](https://github.com/gaushikmr/gaushikmr) :pencil:
 
