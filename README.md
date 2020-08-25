@@ -16,7 +16,7 @@
 
 
 
-## Things I am currently working on 👓
+## Things I am currently working on 
 
 - Focussing on improving my skills to land a role where I can make mistakes,learn,grow and take responsibilities. 
 - Trying to contribute more to OpenSource.
@@ -24,8 +24,7 @@
 
 ## Tech Stack
 <img align="center" alt="C" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" /><img align="center" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" /><img align="center" alt="Csharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/csharp.svg" /><img align="center" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<img align="center" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" /><img align="center" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/r.svg" /><img align="center" alt="Jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jupyter.svg" /><img align="center" alt="Pandas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/pandas.svg" />
-<img align="center" alt="Tensorflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/tensorflow.svg" /><img align="center" alt="MySQL" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" /><img align="center" alt="Unity 3D" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/unity.svg" /><img align="center" alt="Microsoft Office" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/microsoftoffice.svg" />
+<img align="center" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" /><img align="center" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/r.svg" /><img align="center" alt="Jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jupyter.svg" /><img align="center" alt="MySQL" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" /><img align="center" alt="Unity 3D" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/unity.svg" /><img align="center" alt="Microsoft Office" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/microsoftoffice.svg" />
 <img align="center" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/linux.svg" /><img align="center" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/git.svg" />
 
 
