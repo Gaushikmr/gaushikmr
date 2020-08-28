@@ -11,7 +11,7 @@
  I'm currently training myself to become industry ready and finally accomplish that perfect dream.
 
 
-## Things I enjoy doing 👩‍💻
+## ⚡ Things I enjoy doing 👩‍💻
 
 - Developing Experiences which bring a smile.
 - Working on technologies that help me put together some beautiful.
@@ -19,22 +19,22 @@
 
 
 
-## Things I am currently working on 
+## ⚡ Things I am currently working on 
 
 - Focussing on improving my skills to land a role where I can make mistakes,learn,grow and take responsibilities. 
 - Trying to contribute more to OpenSource.
 - Working on my personal portfolio and projects surrounding it.
 
-## Tech Stack
+## ⚡ Tech Stack
 <img align="center" alt="C" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" /><img align="center" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" /><img align="center" alt="Csharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/csharp.svg" /><img align="center" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img align="center" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" /><img align="center" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/r.svg" /><img align="center" alt="Jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jupyter.svg" /><img align="center" alt="MySQL" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" /><img align="center" alt="Unity 3D" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/unity.svg" /><img align="center" alt="Microsoft Office" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/microsoftoffice.svg" />
 <img align="center" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/linux.svg" /><img align="center" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/git.svg" />
 
 
-## Github Badges 
+## ⚡ Github Badges 
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  
 
-## Reach out to me 
+## ⚡ Reach out to me 
 
 <p align="center">
 <a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
