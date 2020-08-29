@@ -25,7 +25,7 @@
 - Trying to contribute more to OpenSource.
 - Working on my personal portfolio and projects surrounding it.
 
-## ⚡ Tech Stack
+##  Tech Stack
 <p align="center">
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
     <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
@@ -35,10 +35,10 @@
 </p>
 
 
-## ⚡ Github Badges 
+##  Github Badges 
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  
 
-## ⚡ Reach out to me 
+##  Reach out to me 
 
 <p align="center">
 <a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
