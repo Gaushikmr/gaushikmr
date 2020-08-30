@@ -11,7 +11,7 @@
  I'm currently training myself to become industry ready and finally accomplish that perfect dream.
 
 
-## ⚡ Things I enjoy doing 👩‍💻
+## Things I enjoy doing 👩‍💻
 
 - Developing Experiences which bring a smile.
 - Working on technologies that help me put together some beautiful.
