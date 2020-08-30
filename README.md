@@ -36,7 +36,10 @@
 
 
 ##  Github Badges 
+
+<p align="center">
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  
+</p>
 
 ##  Reach out to me 
 
